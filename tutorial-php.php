@@ -1,1 +1,2 @@
-
+$name  = "rey":
+echo($name)
