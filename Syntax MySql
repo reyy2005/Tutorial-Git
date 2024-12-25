@@ -3,7 +3,19 @@ Tutorial MYSQL DataBase
 # Untuk melihat database yang ada.
 SHOW DATABASES;
 
+# Membuat Table
+CREATE TABLE "nama tabel"
+(
+  'Nama Kolom' --> 'Type Data'
+) ENGINE = 'nama engine';
+
 # Menggunakan Database yang akan digunakan
 USE DATABASES;
 
 # Melihat isi Tabel yang ada di dalam database
+SHOW TABLE;
+
+# Melihat ENGINE yang tersedia
+SHOW ENGINE;
+
+
