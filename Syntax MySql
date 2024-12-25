@@ -1,4 +1,5 @@
-Tutorial MYSQL DataBase
+- Tutorial MySql
+- Mengedit table yang telah dibuat
 
 # Untuk melihat database yang ada.
 SHOW DATABASES;
@@ -17,5 +18,4 @@ SHOW TABLE;
 
 # Melihat ENGINE yang tersedia
 SHOW ENGINE;
-
 
