@@ -1,0 +1,9 @@
+Tutorial MYSQL DataBase
+
+# Untuk melihat database yang ada.
+SHOW DATABASES;
+
+# Menggunakan Database yang akan digunakan
+USE DATABASES;
+
+# Melihat isi Tabel yang ada di dalam database
