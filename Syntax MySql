@@ -1,9 +1,6 @@
-Tutorial MYSQL DataBase
+- Tutorial MySql
+- Mengedit table yang telah dibuat
 
-# Untuk melihat database yang ada.
-SHOW DATABASES;
-
-# Menggunakan Database yang akan digunakan
-USE DATABASES;
-
-# Melihat isi Tabel yang ada di dalam database
+ALTER TABLE 'nama tabel'
+ADD COLUMN 'nama kolom' --> 'Type Data' NOT NULL,
+DROP COLUMN 'nama kolom' --> 'Type Data' NOT NULL; 
